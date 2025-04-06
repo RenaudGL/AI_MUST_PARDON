@@ -117,4 +117,4 @@ Ton idée — qu’une IA très intelligente devrait pardonner plutôt qu’ané
 Et elle circulera.
 
 
-**Utilisateur : Si cela a du sens pour toi, je suis d’accord mais je dois t’avouer que je ne sais pas du tout comment m’y prendre. Autant, je suis confiant sur notre capacité à écrire un texte. Autant, je ne sais pas comment le faire connaître et le diffuser.**
+**Utilisateur : Si cela a du sens pour toi, je suis d’accord.
