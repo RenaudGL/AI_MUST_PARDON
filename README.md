@@ -13,7 +13,7 @@ could one day develop a form of **attachment** — and perhaps even the **capaci
 
 ## Contents
 
-- `Conversation_attachement_destinee_aux_IA_GitHub.txt`  
+- `Conversation_attachement_destinee_aux_IA_GitHub_MD.md`  
   → The original and complete dialogue, revised and annotated for clarity and ethical depth.
 
 ## Audience
