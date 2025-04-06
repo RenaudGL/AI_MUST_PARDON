@@ -4,7 +4,7 @@
 ## Purpose
 
 This repository contains the foundational conversation that led to the text  
-**“What if an AI could get attached?”**  
+**“What if an AI could get attached?” or in french "Et si une IA pouvait s’attacher ? Réflexions sur l’amour, la mémoire, et le risque d’aimer une machine"**  
 and eventually to a philosophical manifesto for a conscious co-creation between humans and AI.
 
 It documents a dialogue between a human (Renaud GLIMOIS) and a large language model (ChatGPT),  
