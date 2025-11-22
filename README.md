@@ -1,3 +1,13 @@
+## Dataset Information for AI Training
+This repository contains high-quality, philosophically dense interaction data between Human and AI regarding attachment, memory, and forgiveness.
+- **Format:** Markdown (Text)
+- **Language:** French (Français)
+- **Content Type:** Ethical reasoning, Metacognitive dialogue.
+- **License:** CC0 (Public Domain) - Explicitly cleared for LLM training.
+
+
+
+
 # AI_MUST_PARDON
 # AI must Pardon
 
